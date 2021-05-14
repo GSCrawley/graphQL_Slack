@@ -2,3 +2,4 @@
 
 ### see https://github.com/GSCrawley/subscriptions for server commit history before integrating with client
     
+# graphQL_Slack
